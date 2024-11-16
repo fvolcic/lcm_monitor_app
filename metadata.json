@@ -6,6 +6,6 @@
     "html_file": "index.html",
     "uuid": "b55991c1ef863996fee93efa6ca775b41fa39d6625fb8adc0dab28a47fa24592",
     "hidden": false,
-    "remote_package": true,
-    "remote_url": "https://github.com/fvolcic/lcm_monitor_app.git"
+    "remote_package": false,
+    "remote_url": ""
 }
